@@ -19,7 +19,7 @@
             },3000);
         })
     </script>
-    <title>Document</title>
+    <title>Crud con PHP y MySQL</title>
 </head>
 <body>
     <div class="container md-5">
